@@ -58,3 +58,13 @@
 .daily-details-grid-item label:last-child{
     color: #212121;
 }
+
+@media(max-width : 550px){
+    .title{
+        margin:15px;
+    }
+    .daily-item{
+        width: 85%;
+        margin: 10px auto;
+    }
+}
